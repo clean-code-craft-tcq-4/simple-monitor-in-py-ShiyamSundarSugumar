@@ -1,4 +1,4 @@
-from Battery_check import*
+from Battery_check import battery_is_ok
 
 if __name__ == '__main__':
 

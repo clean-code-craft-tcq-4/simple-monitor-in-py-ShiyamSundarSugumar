@@ -1,4 +1,4 @@
-from check_limit import check_function
+from check_limit import check_function,print_console
 
 def battery_is_ok(temperature, soc, charge_rate,temp_min,temp_max,soc_min,soc_max,charge_rate_min,charge_rate_max):
     #function_pointer = [temp_is_ok,soc_is_ok,charge_rate_is_ok]
